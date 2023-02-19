@@ -1,0 +1,33 @@
+#form{
+    text-align: center;
+
+}
+#btn{
+    color:rgb(204, 204, 204);
+    background:rgb(247, 19, 19) ;
+    height:40px;
+    width:100px;
+    border-radius: 10px;
+    
+}
+#btn:hover{
+    background-color: yellow;
+    color:black;
+}
+
+#form{
+    margin-top:50px;
+    width: 300px;
+  border: 05px solid rgb(2, 4, 36);
+  padding: 50px;
+margin-left: auto;
+margin-right: auto;
+background-color:#dad5d5
+}
+
+#login{
+    color:rgb(7, 7, 29)
+}
+#body{
+    background-color:white 
+}
